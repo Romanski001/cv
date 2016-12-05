@@ -1,0 +1,76 @@
+html {
+
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+
+}
+
+#background {
+	background-image:url(https://static.pexels.com/photos/242616/pexels-photo-242616.jpeg);
+	opacity: 0.3;
+	height: 100%;
+	left: 0%;
+	position: absolute;
+	top: 0px;
+	width: 109%;
+	z-index: -1;
+}
+
+h1 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+
+li {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+hr {
+	color:#7AA3CF;
+}
+
+#photo {
+	border-left: 2px solid #CCCCCC;
+	border-right: 2px solid #CCCCCC;
+	border-top: 2px solid #CCCCCC;
+	border-bottom: 2px solid #CCCCCC;
+	height: 125px;
+	margin-left: 45%;
+	margin-right: 55%;
+	position: relative;
+	width: 125px;
+}
+
+#photo_insta {
+	height: 70px;
+	margin-left: 40%;
+	margin-right: 60%;
+	position: relative;
+	width: 70px;
+}
+
+#photo_fb {
+	height: 65px;
+	margin-left: 48%;
+	margin-right: 52%;
+	position: absolute;
+	bottom: 10px;
+	width: 40px;
+}
+
+#photo_linkedin {
+	height: 50px;
+	margin-left: 54%;
+	margin-right: 46%;
+	position: absolute;
+	bottom: 10px;
+	width: 170px;
+}
